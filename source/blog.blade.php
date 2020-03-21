@@ -13,16 +13,12 @@ pagination:
 @endpush
 
 @section('body')
-    <h1>Blog</h1>
-
-    <hr class="border-b my-6">
+    <h1 class="text-gray-700">All articles</h1>
 
     @foreach ($pagination->items as $post)
         @include('_components.post-preview-inline')
 
-        @if ($post != $pagination->items->last())
-            <hr class="border-b my-6">
-        @endif
+
     @endforeach
 
     @if ($pagination->pages->count() > 1)

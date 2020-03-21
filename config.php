@@ -5,14 +5,14 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
+    'siteName' => 'Nothing Works',
     'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteAuthor' => 'Mosab Ibrahim',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Author Name', // Default author, if not provided in a post
+            'author' => 'Mosab Ibrahim', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],

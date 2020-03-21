@@ -5,15 +5,15 @@ body {
 a {
     @apply .font-semibold;
     @apply .no-underline;
-    @apply .text-blue-600;
+    @apply .text-teal-400;
 
     &:hover {
-        @apply .text-blue-800;
+        @apply .text-teal-500;
     }
 }
 
 blockquote {
-    @apply .border-blue-400;
+    @apply .border-teal-400;
     @apply .border-l-4;
     @apply .font-normal;
     @apply .italic;
@@ -32,7 +32,7 @@ code {
 }
 
 code.hljs {
-    @apply .bg-transparent;
+    @apply .bg-gray-800;
     @apply .p-0;
 
     .hljs-comment,
@@ -52,7 +52,7 @@ h6 {
     @apply .leading-tight;
     @apply .mb-4;
     @apply .mt-8;
-    @apply .text-gray-900;
+    @apply .text-gray-700;
 
     &:first-child {
         @apply .mt-0;
@@ -91,7 +91,7 @@ h6 {
 
 hr {
     @apply .border-b;
-    @apply .border-blue-200;
+    @apply .border-teal-200;
     @apply .my-12;
     @apply .rounded-full;
 }
@@ -125,7 +125,7 @@ p {
 }
 
 pre {
-    @apply .bg-gray-200;
+    @apply .bg-gray-800;
     @apply .leading-loose;
     @apply .my-6;
     @apply .overflow-x-auto;
@@ -142,6 +142,6 @@ pre {
 }
 
 ::selection {
-    @apply .bg-blue-500;
+    @apply .bg-teal-400;
     @apply .text-white;
 }
