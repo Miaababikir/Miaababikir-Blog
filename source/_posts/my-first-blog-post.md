@@ -1,19 +1,19 @@
 ---
 extends: _layouts.post
 section: content
-title: My First Blog Post
-date: 2017-03-23
-description: This is your first blog post.
+title: How to start on web development
+date: 2020-03-21
+description: We will give you most of web development resources that can help you to start on your journey in web development.
 cover_image: /assets/img/post-cover-image-2.png
 ---
 
-# :sparkles: Web development beginners guide
+# Web development beginners guide
 
 In this article we will give you most of web development resources that can help you to start on your journey in web development (arabic and english).
 
 > Please if there any course or website that we not include it here, push it to us in PR and we will add it ASAP.
 
-## :notebook: Content
+## Content
 * [HTML](#html)
 * [CSS](#css)
 * [Javascript](#javascript)
@@ -21,7 +21,7 @@ In this article we will give you most of web development resources that can help
 * [Bootstrap](#bootstrap)
 * [Nice Stuff](#nice-stuff)
 
-> I can't tell where the journey will end, But I know where to start :wink:
+> I can't tell where the journey will end, But I know where to start 😉
 
 ## HTML
 It's the first thing you should start learning when you start in web development.
@@ -82,20 +82,20 @@ Bootstrap is an open source toolkit for developing with HTML, CSS, and JS, it wi
 
 >Look If you had One shot. Or one opportunity. To seize everything you ever wanted. In one moment. Would you capture it? Or just let it slip?
 
-### :computer: Code Editors
+### Code Editors
 * [Sublime Text](https://www.sublimetext.com/)
 * [Atom](https://atom.io/)
 * [VS code](https://code.visualstudio.com/)
 
-### :paperclip: Websites 
+### Websites 
 * [W3school](https://www.w3schools.com/html)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
 
-### :iphone: Apps that could help you
+### Apps that could help you
 * [Solo Learn](https://www.sololearn.com/)
 * [Dcoder IDE for your phone](https://dcoder.tech/)
 
-### :tv: Videos for you
+### Videos for you
 * [Why I Should Learn The Basics? - Elzero web school](https://www.youtube.com/watch?v=j-MPYaSuQF4&list=PLDoPjvoNmBAy0LMYbcXDxts0cRnX6bcWY&index=7&t=0s)
 * [What Time I Need To Learn Something? - Elzero web school](https://www.youtube.com/watch?v=cYMuoAJJhcE&list=PLDoPjvoNmBAy0LMYbcXDxts0cRnX6bcWY&index=8)
 * [Elzero Week - Elzero web school](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz9ba3wYS11XbXStuex9CM6)
@@ -106,7 +106,7 @@ Bootstrap is an open source toolkit for developing with HTML, CSS, and JS, it wi
 ### Social Media Groups and pages
 * [Ezero Web School](https://www.facebook.com/groups/ElzeroWebSchool/?ref=bookmarks)
 
-### :hearts: Advice
+### ❤️ Advice
 * Be patient, don' rush through courses to finish them, take your time and learn the basics.
 * Web development could be very overwhelming so **remember you do not need to know everything**.
 * Also remember **Compare yourself to who you are yesterday, not to someone elses today**.
