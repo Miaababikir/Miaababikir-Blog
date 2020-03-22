@@ -30,7 +30,7 @@ return [
     'getDate' => function ($page) {
         return Datetime::createFromFormat('U', $page->date);
     },
-    'getExcerpt' => function ($page, $length = 255) {
+    'getExcerpt' => function ($page, $length = 200) {
         if ($page->excerpt) {
             return $page->excerpt;
         }

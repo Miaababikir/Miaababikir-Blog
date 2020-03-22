@@ -1,4 +1,4 @@
-<div class="w-full mt-12 px-10 py-6 bg-white rounded-lg shadow-md">
+<div class="w-full mt-12 px-10 py-6 bg-white rounded-lg shadow-lg hover:shadow-2xl bounce-sm">
     <div class="flex justify-between items-center">
                 <span class="font-light text-gray-600">
                     {{ $post->getDate()->format('F j, Y') }}

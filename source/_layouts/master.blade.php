@@ -50,11 +50,12 @@
 
         @include('_nav.menu-responsive')
 
-        <main role="main" class="flex-auto w-full container max-w-4xl mx-auto py-16 px-6">
+        @yield("header")
+
+        <main role="main" class="flex-auto w-full container mx-auto py-16 px-6">
             @yield('body')
         </main>
 
-{{--        @include('_components.newsletter-signup')--}}
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-none">
