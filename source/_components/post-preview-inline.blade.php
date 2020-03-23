@@ -13,7 +13,7 @@
 
         <a href="{{ $post->getUrl() }}" class="hover:underline">Read more</a>
         <div class="flex items-center">
-            <img src="https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=731&amp;q=80"
+            <img src="{{ $post->avatar }}"
                  alt="avatar" class="mx-4 w-10 h-10 object-cover rounded-full hidden sm:block">
             <a href="#" class="text-lg text-gray-700 font-bold">{{ $post->authoe }}</a>
         </div>

@@ -13,6 +13,7 @@ return [
     'collections' => [
         'posts' => [
             'author' => 'Mosab Ibrahim', // Default author, if not provided in a post
+            'avatar' => '/assets/img/avatar.jpg', // Default avatar, if not provided in a post
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
