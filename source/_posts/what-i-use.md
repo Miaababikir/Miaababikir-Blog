@@ -11,7 +11,7 @@ In this article I will talk about my setup and what apps and tools I am using. S
 
 ## IDE
 
-I am using **PhoStorm** as my main editor. I enjoy using it. I wish if it had the speed and the smoothness that **Sublime** had. Here screenshot of my editor.
+I am using **PhpStorm** as my main editor. I enjoy using it. I wish if it had the speed and the smoothness that **Sublime** had. Here screenshot of my editor.
 
 ![Editor](/assets/img/what-i-use/editor.jpeg)
 
