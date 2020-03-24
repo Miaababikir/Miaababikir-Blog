@@ -6,7 +6,7 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'Nothing Works',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
+    'siteDescription' => 'Focused on finding the best ways to teach and learn how to code',
     'siteAuthor' => 'Mosab Ibrahim',
 
     // collections
