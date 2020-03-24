@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: How to start on web development
-date: 2020-03-21
+date: 2019-09-25
 description: We will give you most of web development resources that can help you to start on your journey in web development.
 featured: true
 ---

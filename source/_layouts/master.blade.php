@@ -60,7 +60,7 @@
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center list-none">
                 <li class="md:mr-2">
-                    &copy; <a href="https://tighten.co" title="Tighten website">Miaababikir</a> {{ date('Y') }}.
+                    &copy; <a href="https://twitter.com/miaababikir" title="Twitter Profile">Miaababikir</a> {{ date('Y') }}.
                 </li>
 
                 <li>

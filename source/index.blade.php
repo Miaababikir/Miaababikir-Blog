@@ -8,7 +8,7 @@
 @section('body')
 
     <h2>Latest Articles</h2>
-    @foreach ($posts->where('featured', false)->take(6) as $post)
+    @foreach ($posts->take(6) as $post)
         @include('_components.post-preview-inline')
     @endforeach
 

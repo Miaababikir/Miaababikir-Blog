@@ -40,11 +40,11 @@ I am really enjoy working on open source project and also working on side projec
 
 This year I start writing about some interesting things about our industry. Writing and sharing knowledge is quite fun. I published not that many articles but the feedback I got is quite positive. I definitely want to continue writing.
 
-When I started blogging I also became more active on social networks like Twitter, I get to know new inspiring people and get to join awesome developers communities, actually I don’t know why I didn’t do it earlier…  
+When I started blogging I also became more active on social networks like Twitter, I get to know new inspiring people and get to join awesome developers communities actually, I don’t know why I didn’t do it earlier…  
 
 ## 📖 Reading
 
-In the last years I struggled to start reading books. Every time I make a goal to start reading a number of books but I never did. This year I started a habit on reading specific number of pages every day and I started to finish some books. Here some of my best reads in this year:
+In the last years, I struggled to start reading books. Every time I make a goal to start reading a number of books but I never did. This year I started a habit of reading a specific number of pages every day and I started to finish some books. Here some of my best reads in this year:
 
 **Non Technical books:**
 
@@ -61,7 +61,7 @@ In the last years I struggled to start reading books. Every time I make a goal t
 
 ## 📈 Self development and productivity
 
-In this year I had a lot of burnout and depressing moments that stick with me for months. For months I never accomplished anything. I am not trying to stop these burnout gabs but I have to make it not taking a lot of time from me.
+This year I had a lot of burnout and depressing moments that stick with me for months. For months I never accomplished anything. I am not trying to stop these burnout gabs but I have to make it not taking a lot of time from me.
 
 Some of the things that helped me along the way is committing to the GYM and taking some time off (Not long time) from projects and learning and just doing anything that not related.
 
@@ -69,7 +69,7 @@ I tried to start new habits and stopping bad ones, I haven't done much also but 
 
 ## 💉 Health
 
-In this year I started a diet and kinda committed to go to the GYM. I lost almost 20 kilos in 8 month. And I gained a lot of strength from going to the GYM. I feel much better now but I returned to my old eating habits not as bad as it was but still.
+This year I started a diet and kinda committed to going to the GYM. I lost almost 20 kilos in 8 months. And I gained a lot of strength from going to the GYM. I feel much better now but I returned to my old eating habits not as bad as it was but still.
 
 I am still going to the GYM but I need to return to my diet. I still need to lose more weight this year too. And maintaining my gained strength. 
 
