@@ -10,13 +10,9 @@
 @section('body')
     <h1>Contact</h1>
 
-    <p class="mb-8">
-        Static sites are unable to handle form submissions. However, there are third-party services, like Tighten’s <a
-                href="https://fieldgoal.io" title="FieldGoal">FieldGoal</a>, which can accept the form submission, email
-        you the result, and redirect back to a thank you page.
-    </p>
+    <p class="mb-8">I haven't met you, and this is crazy.. But if you need a developer then email Me maybe</p>
 
-    <form action="/contact" class="mb-12">
+    <form action="https://modulo-app.herokuapp.com/api/forms/egxV0v" method="POST" class="mb-12">
         <div class="flex flex-wrap mb-6 -mx-3">
             <div class="w-full md:w-1/2 mb-6 md:mb-0 px-3">
                 <label class="block mb-2 text-gray-800 text-sm font-semibold" for="contact-name">
@@ -68,7 +64,7 @@
             <input
                     type="submit"
                     value="Submit"
-                    class="block bg-blue-500 hover:bg-blue-600 text-white text-sm font-semibold leading-snug tracking-wide uppercase shadow rounded-lg cursor-pointer px-6 py-3"
+                    class="block bg-teal-400 hover:bg-teal-500 text-white text-sm font-semibold leading-snug tracking-wide uppercase shadow rounded-lg cursor-pointer px-6 py-3"
             >
         </div>
     </form>
