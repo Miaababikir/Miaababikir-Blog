@@ -9,9 +9,12 @@ featured: true
 
 I saw a lot of people including me struggling with implementing navbar menu with hamburger button to toggle it on small screens. So I decided to make small article to help you with that.
 
-On the left section we have two element (Site name, hamburger button), and we make the button hidden by default in `md` screens.
+## Let's get started
+On the navbar we have two sections the right one and the left one
 
-On the right section we make it hidden in `small` screens and make it `block` on `md` screens and `flex-col` on small screen and `flex-row` on `md` screen.
+- On the left section we have two elements (Site name, hamburger button), and we make the button hidden by default in `md` screens.
+
+- On the right section we make it hidden in `small` screens and make it `block` on `md` screens and `flex-col` on small screens and `flex-row` on `md` screen.
 
 ```html
 <nav class="bg-white shadow">
@@ -39,7 +42,7 @@ On the right section we make it hidden in `small` screens and make it `block` on
 </nav>
 ```
 
-And to make it togglable we can sprinkle little bit of javascript.
+To make it toggleable we can sprinkle little bit of javascript.
 
 ```jsx
 let button = document.getElementById('nav-button');
@@ -89,4 +92,4 @@ If you are using Vue js you can toggle it this way
 </script>
 ```
 
-And that is all, I wish it was helpful ^_^.
+That is all, I wish it was helpful ^_^.
