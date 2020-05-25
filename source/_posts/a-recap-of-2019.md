@@ -4,7 +4,7 @@ section: content
 title: A recap of 2019
 date: 2019-12-29
 description: In this article I will talk about what I have achieved in this year and what I haven't, it's been a long year a lot of things happened, so I think it's essential that I take a moment to write down some highlights of mine this year.
-featured: true
+featured: false
 ---
 
 Before everything else I want you to remember this:
